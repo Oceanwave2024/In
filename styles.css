@@ -1,14 +1,15 @@
 /* Root Variables */
 :root {
-    --color-primary: #FFB5C5;  /* Pastel Pink */
-    --color-secondary: #FFE5B4;  /* Soft Yellow */
-    --color-accent: #FFC0CB;  /* Lighter Pink */
-    --color-success: #10b981;
-    --color-background: #FFF5EE;  /* Soft pink-white background */
-    --color-text: #333333;
-    --color-text-light: #666666;
-    --color-border: #FFD1DC;  /* Soft pink border */
-    --color-white: #FFFAF0;  /* Soft white with hint of yellow */
+    --color-primary: #5D3FD3;     /* Vibrant Indigo - Bold, innovative */
+    --color-secondary: #22D1EE;   /* Bright Cyan - Modern, tech-forward */
+    --color-accent: #FF6B6B;      /* Soft Coral - Energetic, warm */
+    --color-background: #F4F7F6;  /* Soft Mint Gray - Clean, fresh */
+    --color-text: #2C3E50;        /* Deep Navy - Professional */
+    
+    /* Gradients for depth */
+    --gradient-primary: linear-gradient(135deg, #5D3FD3 0%, #8A4FFF 100%);
+    --gradient-secondary: linear-gradient(135deg, #22D1EE 0%, #90F7EC 100%);
+}
     
     /* Shadows */
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
