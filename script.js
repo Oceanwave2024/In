@@ -1,3 +1,9 @@
+export const metadata = {
+  title: 'Ocean- Your practice management assistant',
+  description: 'Ocean is your practice assistant that helps you attend to and onboard prospective clients using AI. Clients receive faster responses, streamline your intake process, and never miss another opportunity to connect with those in need.',
+}
+ 
+export default function Page() {}
 document.addEventListener('DOMContentLoaded', () => {
     // Modal management
     const modal = document.getElementById('waitlist-modal');
