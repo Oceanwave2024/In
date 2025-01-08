@@ -6,9 +6,7 @@
     --color-background: #F4F7F6;  /* Soft Mint Gray - Clean, fresh */
     --color-text: #2C3E50;        /* Deep Navy - Professional */
     
-    /* Gradients for depth */
-    --gradient-primary: linear-gradient(135deg, #5D3FD3 0%, #8A4FFF 100%);
-    --gradient-secondary: linear-gradient(135deg, #22D1EE 0%, #90F7EC 100%);
+   
 }
     
     /* Shadows */
